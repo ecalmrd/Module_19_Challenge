@@ -1,4 +1,4 @@
-# PWA-Text_Editor  
+# PWA-Text-Editor  
 
 ## Table of Contents
 * [DEMO ](#demo)  
